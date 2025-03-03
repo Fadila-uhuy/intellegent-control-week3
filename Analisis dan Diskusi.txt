@@ -1,0 +1,6 @@
+Nama: Ikhsan Fadila
+NIM: 224308035
+Kelas: TKA-6B
+
+Analisis dan Diskusi
+Sistem ini bisa mengenali objek sekaligus menganalisis pencahayaan dalam satu proses. Teknologi ini cocok untuk keamanan, pencahayaan pintar, dan pemantauan lingkungan. Untuk hasil yang lebih akurat, model bisa diperbaiki dengan arsitektur yang lebih canggih dan pengukuran cahaya yang lebih tepat.
